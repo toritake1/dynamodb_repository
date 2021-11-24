@@ -11,4 +11,4 @@ phases:
 
   build:
     commands:
-      - python -B -m unittest discover
+      - python -B -m unittest discovera

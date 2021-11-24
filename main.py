@@ -28,5 +28,4 @@ if __name__ == "__main__":
         args[1],
         args[2],
     )
-    aaa
 
